@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @MertOzerdem
 - 👀 I’m interested in how my school project got this many forks and stars https://github.com/MertOzerdem/DDOS-TOLL
 - 🌱 I’m currently learning *"insert advanced thingy here"*
+- 🚀 I came in like [a wrecking ball](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
