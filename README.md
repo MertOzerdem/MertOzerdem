@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @MertOzerdem
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning ionic framework
-
-
+- 👀 I’m interested in how my school project got this many forks and stars https://github.com/MertOzerdem/DDOS-TOLL
+- 🌱 I’m currently learning *"insert advanced thingy here"*
