@@ -14,4 +14,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mert-%C3%B6zerdem-a71798186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/MertOzerdem/MertOzerdem/blob/main/linkedIn.svg" alt="mertozerdem" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mert-%C3%B6zerdem-a71798186/" target="blank"><img align="center" src="https://github.com/MertOzerdem/MertOzerdem/blob/main/linkedIn.svg" alt="mertozerdem" height="30" width="30" /></a>
